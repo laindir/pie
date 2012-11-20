@@ -1,0 +1,3 @@
+[submodule "include/structures"]
+	path = include/structures
+	url = git@github.com:laindir/structures.git
